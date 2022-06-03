@@ -1,0 +1,4 @@
+/home/victor/serial-port/5_Qt_integration/build/CMakeFiles/rebuild_cache.dir
+/home/victor/serial-port/5_Qt_integration/build/CMakeFiles/SerialGUI.dir
+/home/victor/serial-port/5_Qt_integration/build/CMakeFiles/edit_cache.dir
+/home/victor/serial-port/5_Qt_integration/build/CMakeFiles/SerialGUI_autogen.dir

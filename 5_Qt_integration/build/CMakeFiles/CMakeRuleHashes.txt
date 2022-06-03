@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+94a49b187b7e34b5cfcb28e5741f1f46 CMakeFiles/SerialGUI_autogen
